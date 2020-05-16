@@ -1,2 +1,2 @@
-# EX_1_RONZANO_ROCCO_PIECES_D_OCCASIONS_PYTHON_WEB
+# ex_1_ronzano_rocco_pieces_d_occasions_python_web
 1er exercice pour mon prof adoré &lt;3
